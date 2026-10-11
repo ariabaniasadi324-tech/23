@@ -1,0 +1,3 @@
+# Placeholder audio resource
+
+The web results found soundboard/meme copies, but no clear redistribution license. Replace this marker with a licensed Spanish TTS/recording named `compro_carros.ogg` before building.
