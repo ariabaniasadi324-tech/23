@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "lorestani_cat_disc",
+  "version": "${version}",
+  "name": "Lorestani Cat Disc",
+  "description": "Adds a Lorestani jukebox disc and a playful cat dance event.",
+  "authors": ["ariabaniasadi324-tech"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["tech.ariabaniasadi.lorestanicatdisc.LorestaniCatDisc"] },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
