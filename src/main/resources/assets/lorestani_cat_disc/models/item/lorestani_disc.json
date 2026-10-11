@@ -1,0 +1,4 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "lorestani_cat_disc:item/lorestani_disc" }
+}
