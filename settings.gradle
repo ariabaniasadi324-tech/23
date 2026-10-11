@@ -1,0 +1,2 @@
+rootProject.name = 'lorestani-cat-disc'
+pluginManagement { repositories { maven { name = 'Fabric'; url = 'https://maven.fabricmc.net/' }; gradlePluginPortal(); mavenCentral() } }
