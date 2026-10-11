@@ -1,0 +1,10 @@
+{
+  "lorestani_cat_disc:lorestani": {
+    "sounds": ["lorestani_cat_disc:lorestani"],
+    "subtitle": "subtitles.lorestani_cat_disc.lorestani"
+  },
+  "lorestani_cat_disc:compro_carros": {
+    "sounds": ["lorestani_cat_disc:compro_carros"],
+    "subtitle": "subtitles.lorestani_cat_disc.compro_carros"
+  }
+}
