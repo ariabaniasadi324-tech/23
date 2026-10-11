@@ -1,0 +1,5 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [{"item":"minecraft:disc_fragment_5"},{"item":"minecraft:diamond"}],
+  "result": {"id":"lorestani_cat_disc:lorestani_disc","count":1}
+}
